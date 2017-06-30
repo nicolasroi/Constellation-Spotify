@@ -13,7 +13,7 @@ Python libraries you need to install, simply run `sudo pip2 install <library>`
 How to install Constellation on your Debian based machine => https://developer.myconstellation.io/getting-started/installer-constellation/
 
 ### Constellation server-side:
-Fetch the ConstellationSpotify.zip file downloaded by cloning the github repository and drop it in the Package Repository / Upload Package section.
+Fetch the Spotify.zip file downloaded by cloning the github repository and drop it in the Package Repository / Upload Package section.
 Once the package installed, click on Deploy Package on the desired Sentinel and follow the instructions, default settings should not be changed unless you know what you're doing.
 
 ### Warning :
