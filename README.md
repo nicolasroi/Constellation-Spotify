@@ -14,7 +14,7 @@ How to install Constellation on your Debian based machine => https://developer.m
 
 ### Constellation server-side:
 Fetch the Spotify.zip file downloaded by cloning the github repository and drop it in the Package Repository / Upload Package section.
-Once the package installed, click on Deploy Package on the desired Sentinel and follow the instructions, enter your spotify username and password, and you shouldn't change the other settings unless you know what you're doing.
+Once the package installed, click on Deploy Package on the desired Sentinel and follow the instructions, enter your Spotify username and password, and you shouldn't change the other settings unless you know what you're doing.
 
 ### Warning :
 When pushing a Spotify playlist to the package, check that it does not exceed 15~20 tracks, or you will be prompted a timeout error by pyspotify.
